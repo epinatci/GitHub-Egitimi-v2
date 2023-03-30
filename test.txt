@@ -3,6 +3,15 @@ Bu bir test dosyasıdır.
 Test branch line added
 ne yazsam bu sefer kabul edecekmıssın gıbı
 
+<<<<<<< HEAD
 bir satir daha ekliyorum pull request islemi ici
 
 conflict behaviour
+=======
+bir satir daha ekliyorum pull request islemi icin
+
+stash komutunu ogreniyoruz cakışma bu satirda olcak
+Main branch revert Test
+
+conflict behavior
+>>>>>>> origin/test
