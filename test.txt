@@ -5,7 +5,7 @@ ne yazsam bu sefer kabul edecekmıssın gıbı
 
 bir satir daha ekliyorum pull request islemi icin
 
-stash komutunu ogreniyoruz
+stash komutunu ogreniyoruz cakışma bu satirda olcak
 Main branch revert Test
 
 conflict behavior
