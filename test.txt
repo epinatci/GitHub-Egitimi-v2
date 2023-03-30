@@ -6,3 +6,6 @@ ne yazsam bu sefer kabul edecekmıssın gıbı
 bir satir daha ekliyorum pull request islemi icin
 
 stash komutunu ogreniyoruz
+Main branch revert Test
+
+conflict behavior
